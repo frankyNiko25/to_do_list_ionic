@@ -1,0 +1,44 @@
+[
+	{
+		"title": "Messaggio1",
+		"text": "Hey ciao!",
+		"deleted": false,
+		"archived": true,
+		"id": "1rbh75k8kzubogga"
+	},
+	{
+		"title": "Messaggio3",
+		"text": "Test nota archiviata",
+		"deleted": false,
+		"archived": true,
+		"id": "1rbh7cswkzudi5rn"
+	},
+	{
+		"title": "Messaggio4",
+		"text": "Test nota eliminata",
+		"id": "1rbh7124kzvh5o5q",
+		"archived": false,
+		"deleted": true
+	},
+	{
+		"title": "Messaggio6",
+		"text": "Ciaoooooo",
+		"id": "1rbh7124kzvhmal4",
+		"archived": false,
+		"deleted": true
+	},
+	{
+		"title": "Massaggio8",
+		"text": "Holaaaaaaaaa",
+		"id": "1rbh7124kzvi2r3a",
+		"archived": false,
+		"deleted": false
+	},
+	{
+		"title": "ciao",
+		"text": "sono nuovo :-)",
+		"id": "1rbh7aoskzwfluwm",
+		"archived": false,
+		"deleted": false
+	}
+]
